@@ -1,4 +1,6 @@
 # This is main.py
 
 print("Greetings from Group 7 main.py")
-a = 144
+a = 88
+
+print("Greetings from the Mason branch")
